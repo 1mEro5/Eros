@@ -12,6 +12,10 @@ My Voicebank has a Voicebank of 10 characters.
 - Rasazy
 - Sanford
 - Selever
+- New AGOTI
+- Solazar
+- Old Lord X
+- Soul BF
 
 *IMPORTANT*
 If you use my Voicebank, please leave a link to GitHub (my Voicebank) or my YouTube channel!!
