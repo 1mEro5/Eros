@@ -1,21 +1,5 @@
-Thank you for downloading my Voicebank!!!
+Thank you for visiting my Voicebank!!!
 
-My Voicebank has a Voicebank of 10 characters.
+Welcome to Eros's FNF UTAU Voicebank
 
-- Abby
-- Angry Abby
-- Auditor
-- Deimos
-- Duck
-- Hank
-- Jebus
-- Rasazy
-- Sanford
-- Selever
-- New AGOTI
-- Solazar
-- Old Lord X
-- Soul BF
-
-*IMPORTANT*
 If you use my Voicebank, please leave a link to GitHub (my Voicebank) or my YouTube channel!!
